@@ -1,7 +1,13 @@
+astroid==3.3.8
+dill==0.3.9
 Django==2.2.19
 flake8==7.1.1
+isort==5.13.2
 mccabe==0.7.0
+platformdirs==4.3.6
 pycodestyle==2.12.1
 pyflakes==3.2.0
+pylint==3.3.3
 pytz==2024.2
 sqlparse==0.5.3
+tomlkit==0.13.2
